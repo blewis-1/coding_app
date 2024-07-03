@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159457851956",
+    "project_id": "coding-ff426",
+    "storage_bucket": "coding-ff426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159457851956:android:941273393a394b5d5de861",
+        "android_client_info": {
+          "package_name": "com.example.coding_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSLetEMRBnDSHVwUZFuklP9PLsLVyln0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
